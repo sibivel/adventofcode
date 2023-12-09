@@ -1,0 +1,10 @@
+LR
+
+1AA = (1ZZ, XXX)
+1ZZ = (XXX, 1BB)
+1BB = (1CC, XXX)
+1CC = (XXX, 1DD)
+1DD = (1ZZ, XXX)
+2XA = (2YY, 2YY)
+2YY = (2ZZ, 2ZZ)
+2ZZ = (2XA, 2XA)
