@@ -3,5 +3,10 @@ cat input.txt | python3 run1.py
 cat example.txt | python3 run2.py
 cat input.txt | python3 run2.py
 
+cat example.txt | python run1.py
+cat input.txt | python run1.py
+cat example.txt | python run2.py
+cat input.txt | python run2.py
+
 cat example.txt | java Main.java
 cat input.txt | java Main.java
